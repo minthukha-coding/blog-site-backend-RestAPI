@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blog-site-backendAPI-RestAPI", "blog-site-backendAPI-RestAPI\blog-site-backendAPI-RestAPI.csproj", "{AB6C19EC-A1D8-4A24-A06C-BD107B523A3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB6C19EC-A1D8-4A24-A06C-BD107B523A3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB6C19EC-A1D8-4A24-A06C-BD107B523A3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB6C19EC-A1D8-4A24-A06C-BD107B523A3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB6C19EC-A1D8-4A24-A06C-BD107B523A3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7C36B12-BA3D-44DD-B23E-518F9AAD16A8}
+	EndGlobalSection
+EndGlobal
